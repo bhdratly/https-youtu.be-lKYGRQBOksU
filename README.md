@@ -1,2 +1,3 @@
-# https-youtu.be-lKYGRQBOksU
+# Oryantasyon Final Ödevi
 Java örnekleri çözdüğüm bir youtube videosu...
+https://github.com/bhdratly/https-youtu.be-lKYGRQBOksU/tree/main
